@@ -1,0 +1,11 @@
+cache
+corpora
+indexes
+archive
+__pycache__
+.vscode
+SBERT
+sample
+data_colbert
+wiki_graph
+zalo_ai_challenge
