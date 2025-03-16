@@ -1,6 +1,6 @@
 # ViWiQA: Efficient end-to-end Vietnamese Wikipedia-based Open-domain Question-Answering systems for single-hop and multi-hop questions
 
-This repository contains the code for the paper "ViWiQA: Efficient end-to-end Vietnamese Wikipedia-based Open-domain Question-Answering systems for single-hop and multi-hop questions"
+This repository contains the code for the paper [ViWiQA: Efficient end-to-end Vietnamese Wikipedia-based Open-domain Question-Answering systems for single-hop and multi-hop questions](https://www.sciencedirect.com/science/article/pii/S0306457323002510)
 
 ## ColBERT for Vietnamese
 Check the `ColBERT_for_vn` directory for details.
